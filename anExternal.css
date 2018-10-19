@@ -1,0 +1,62 @@
+body{
+
+}
+
+p{
+
+}
+
+h1{
+
+}
+
+h3{
+
+}
+
+li{
+
+}
+
+#Header{
+    width: 350px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 10px;
+    border: dotted 10px pink;
+    text-align: center;
+    border-radius: 25px;
+    background: palegoldenrod;
+}
+
+#RightBox ul{
+    list-style-type: none;
+    padding-right: auto;
+}
+
+#RightBox{
+    border: dotted 5px purple;
+    margin-right: auto;
+    margin-left: 10px;
+    margin-bottom: 10px;
+    width: 300px;
+    float: right;
+    padding-left: 10px;
+    text-align: center;
+    padding-bottom: 5px;
+    background-color: gray;
+}
+
+#Content{
+    border: solid 8px blueviolet;
+    margin-right: 10px;
+    margin-left: auto;
+    margin-bottom: 10px;
+    width: 400px;
+    float: left;
+    padding-right: 10px;
+    text-align: center;
+    padding-bottom: 10px;
+    background-color: black;
+    color: white;
+}
